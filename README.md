@@ -2,15 +2,13 @@
 
 An app to search various movies.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+You can install with the link by following the steps :=
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Instruction for building one :- 
+1. Make sure flutter in installed on your PC. 
+2. Clone or download the zip folder and extract on your PC.
+3. Inside the folder, Hold shift and Right Click and then go to Winodws Power Shell.
+4. Type in the command - "flutter build apk".
+5. Thats it, the app will be available in the path /build/app/outputs/flutter-apk/app-release.apk
