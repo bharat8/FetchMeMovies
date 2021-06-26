@@ -1,6 +1,6 @@
-# fetch_me_movies
+# FetchMeMovies-App
 
-A new Flutter project.
+An app to search various movies.
 
 ## Getting Started
 
